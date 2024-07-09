@@ -1,0 +1,12 @@
+job_step:
+  step_name: step-1
+  service_name: service_2
+  service_config:
+    landing_database: landing_prod
+    landing_table: table_config_2
+    refinery_database: refinery_prod
+    refinery_tables:
+      - refinery_table:
+          table_name: table_1_config_2
+      - refinery_table:
+          table_name: table_2_config_2

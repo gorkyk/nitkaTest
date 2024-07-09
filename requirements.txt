@@ -1,0 +1,6 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+pydantic==1.8.2
+PyYAML==5.4.1
+motor==2.5.1
+requests==2.26.0

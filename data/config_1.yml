@@ -1,0 +1,9 @@
+job_step:
+  step_name: step_1
+  service_name: service_1
+  service_config:
+    transformation_step:
+      target_database: treasury_prod
+      target_table: table_config_1
+      source_database: refinery_prod
+      source_table: table_config_1

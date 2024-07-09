@@ -1,0 +1,6 @@
+job_step:
+  step_name: step_1
+  service_name: service_3
+  service_config:
+    database_name: landing_prod
+    table_name: table_config_3
